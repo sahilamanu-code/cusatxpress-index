@@ -1,24 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "CUSAT",
+  "projectType": "saas",
+  "projectName": "CUSAT – Cochin University of Science and Technology",
+  "projectDescription": "Comprehensive guide for students, researchers, and visitors covering admissions, academics, the CAT entrance exam, examinations, campus life, and key university services at Cochin University of Science and Technology.",
   "theme": "almond",
-  "colors": {
-    "primary": "#d4331c",
-    "light": "#db6947",
-    "dark": "#646464"
-  },
-  "favicon": "https://media.brand.dev/652fd850-6ad2-4f29-8068-26f1467e530e.png",
-  "logo": {
-    "light": "https://media.brand.dev/c8ed0b9b-64eb-4ae6-813d-369c1d1f523c.png",
-    "dark": "https://media.brand.dev/c8ed0b9b-64eb-4ae6-813d-369c1d1f523c.png"
-  },
-  "navbar": {
-    "primary": {
-      "type": "button",
-      "label": "Apply Now",
-      "href": "https://admissions.cusat.ac.in"
-    }
-  },
+  "primaryColor": "#d4331c",
+  "lightColor": "#db6947",
+  "darkColor": "#646464",
   "navigation": {
     "tabs": [
       {
@@ -110,7 +97,7 @@
             ]
           },
           {
-            "group": "PhD & Defences",
+            "group": "PhD Defences",
             "pages": [
               "examinations/open-defences",
               "examinations/phd-regulations"
@@ -165,9 +152,26 @@
       }
     ]
   },
-  "footer": {
-    "socials": {
-      "website": "https://cusat.ac.in"
-    }
-  }
+  "keyFeatures": [
+    "CUSAT Common Admission Test (CAT) – annual entrance exam for UG/PG programmes",
+    "137+ academic programmes across Engineering, Science, Marine Sciences, Law, Management, and Humanities",
+    "Semester-based examination system with online results and hall ticket download",
+    "PhD programme with Research and Development Cell and 26 recognised external research centres",
+    "Sophisticated Test and Instrumentation Centre (STIC) offering ISO/IEC-accredited analytical services",
+    "Three campuses: Main (Thrikkakara), Lakeside (Marine Sciences), and Pulincunnu (CUCEK)",
+    "Online student portal (eStudents) for admissions, hall tickets, results, and fee payments",
+    "Central Placement Office and CITTIC entrepreneurship incubator",
+    "NAAC 'A+' Grade re-accredited; ranked in Times Higher Education and QS World Rankings",
+    "Free learning resources: MATLAB, Moodle, NPTEL, Spoken Tutorial, digital library"
+  ],
+  "publicApiSurface": [
+    "admissions.cusat.ac.in – Admissions portal and CAT registration",
+    "exam.cusat.ac.in – Hall ticket download and result access",
+    "estudents.cusat.ac.in – Student self-service portal",
+    "library.cusat.ac.in – University library catalogue",
+    "dspace.cusat.ac.in – Digital repository (Dyuthi)",
+    "recruit.cusat.ac.in – Recruitment and rank lists",
+    "hostels.cusat.ac.in – Hostel information and allotment",
+    "Certificate Verification System – directverify.in"
+  ]
 }

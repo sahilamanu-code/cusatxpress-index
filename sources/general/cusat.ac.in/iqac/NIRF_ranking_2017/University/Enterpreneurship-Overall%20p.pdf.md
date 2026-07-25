@@ -1,0 +1,3 @@
+# Source: https://cusat.ac.in/iqac/NIRF_ranking_2017/University/Enterpreneurship-Overall%20p.pdf
+
+Institute Name: COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY India Rankings 2017 ID: IR17-I-2-18161 Discipline: Overall Parameter Enterpreneurship S.No. 1 Ashwanth M.P., Jerish Thomas John Pursuing Kinemach 2 Vishnu, Ajaysankar S Nair Pursuing Valmeeki 3 Abdulla MP Pursuing CYNBUS MEDIA 4 Vyshakh MR Pursuing County Properties 5 Pursuing Vrweird.space Name of the Student/Alumni/Faculty enterpreneur Graduating year(applicable for student/alumni) Name of the company incubated K.Pramod Krishna, Mohammed Salah, Gokul -- 1 of 2 -- GY -- 2 of 2 --
